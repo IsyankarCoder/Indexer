@@ -1,0 +1,16 @@
+D:\VsProject\Indexer\bin\Debug\net5.0\Indexer.exe
+D:\VsProject\Indexer\bin\Debug\net5.0\Indexer.deps.json
+D:\VsProject\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+D:\VsProject\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+D:\VsProject\Indexer\bin\Debug\net5.0\Indexer.dll
+D:\VsProject\Indexer\bin\Debug\net5.0\ref\Indexer.dll
+D:\VsProject\Indexer\bin\Debug\net5.0\Indexer.pdb
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.csprojAssemblyReference.cache
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.dll
+D:\VsProject\Indexer\obj\Debug\net5.0\ref\Indexer.dll
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.pdb
+D:\VsProject\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache
